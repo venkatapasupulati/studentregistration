@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T20:07:18.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Pik3wxi-vnKLLw5RSZCy" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-13T20:07:57.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="0Pve8sU4QfE3eHhURLpT" version="21.0.6" type="github" pages="2">
   <diagram name="class diagra" id="UCPi9fHKwQAfiohxh6cr">
     <mxGraphModel dx="997" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A0JUmIntOKjeez-WInKb" name="Use case">
-    <mxGraphModel dx="997" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_PEiuBnAniCu1Kfigy-u-1" value="Dog owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="281" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_PEiuBnAniCu1Kfigy-u-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_PEiuBnAniCu1Kfigy-u-16">
           <mxGeometry relative="1" as="geometry">
