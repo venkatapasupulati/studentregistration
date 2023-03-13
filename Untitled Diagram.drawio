@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T17:30:00.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="qX4q5XgqlTkGobpfsMBN" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-13T20:07:18.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Pik3wxi-vnKLLw5RSZCy" version="21.0.6" type="github" pages="2">
   <diagram name="class diagra" id="UCPi9fHKwQAfiohxh6cr">
     <mxGraphModel dx="997" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -166,6 +166,141 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-1" target="_PEiuBnAniCu1Kfigy-u-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-1" target="_PEiuBnAniCu1Kfigy-u-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-1" target="_PEiuBnAniCu1Kfigy-u-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="450" />
+              <mxPoint x="160" y="450" />
+              <mxPoint x="160" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-1" target="_PEiuBnAniCu1Kfigy-u-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="450" />
+              <mxPoint x="140" y="450" />
+              <mxPoint x="140" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-1" target="_PEiuBnAniCu1Kfigy-u-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="301" />
+              <mxPoint x="200" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-1" target="_PEiuBnAniCu1Kfigy-u-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="340" />
+              <mxPoint x="160" y="340" />
+              <mxPoint x="160" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-1" value="Dog owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="281" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_PEiuBnAniCu1Kfigy-u-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-4" target="_PEiuBnAniCu1Kfigy-u-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-4" target="_PEiuBnAniCu1Kfigy-u-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-4" target="_PEiuBnAniCu1Kfigy-u-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-4" target="_PEiuBnAniCu1Kfigy-u-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-4" value="Dog Walker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-8" value="User Registration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-9" value="User Profile creation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-10" value="Summary of request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-11" value="Searchwalkers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-12" value="Create Dog Profiles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-13" value="Request Walkers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-16" value="Walker registration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-17" value="Walker profile update" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-18" value="Accept or decline walker Request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-19" target="_PEiuBnAniCu1Kfigy-u-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-21" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_PEiuBnAniCu1Kfigy-u-20">
+          <mxGeometry x="0.1583" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-19" value="Summary of served requests" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_PEiuBnAniCu1Kfigy-u-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="190" as="sourcePoint" />
+            <mxPoint x="360" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-23" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_PEiuBnAniCu1Kfigy-u-22">
+          <mxGeometry x="0.1583" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_PEiuBnAniCu1Kfigy-u-17" target="_PEiuBnAniCu1Kfigy-u-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="290" as="sourcePoint" />
+            <mxPoint x="370" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-25" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_PEiuBnAniCu1Kfigy-u-24">
+          <mxGeometry x="0.1583" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PEiuBnAniCu1Kfigy-u-37" value="Send notifications on request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
